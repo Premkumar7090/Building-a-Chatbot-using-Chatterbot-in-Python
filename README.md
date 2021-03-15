@@ -1,0 +1,2 @@
+# Building-a-Chatbot-using-Chatterbot-in-Python
+A computer program designed to simulate conversation with human users, especially over the internet.” It can be looked upon as a virtual assistant that communicates with users via text messages and helps businesses in getting close to their customers. It is a program designed to imitate the way humans communicate with each other. It can be done through a chat interface or by voice call. Developers usually design chatbots so that it is difficult to tell for users whether they are communicating with a person or a robot.
